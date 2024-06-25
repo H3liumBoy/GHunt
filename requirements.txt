@@ -12,3 +12,4 @@ webdriver-manager
 wayback
 bs4
 packaging
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
